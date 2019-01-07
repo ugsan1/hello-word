@@ -1,3 +1,3 @@
 # hello-word
-first Github repository
+first Github repository;
 Editing file excercise
